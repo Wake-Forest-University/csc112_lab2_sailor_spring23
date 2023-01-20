@@ -5,7 +5,6 @@
  * @author Nirre Pluf {@literal <pluf@wfu.edu>}
  * @version 0.1, Jan. 20, 2023
  */
-
 import java.util.Random;
 
 public class Sailor {
